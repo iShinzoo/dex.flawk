@@ -42,7 +42,7 @@ export default function Navbar() {
 
         <motion.div whileHover={{ scale: 1.1 }}>
           <Link
-            href="https://github.com"
+            href="https://github.com/iShinzoo/dex.flawk"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 px-4 py-2 rounded-full border border-teal-500/30 hover:border-teal-500 transition-colors"
